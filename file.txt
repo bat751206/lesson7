@@ -1,3 +1,6 @@
 text from main and conflict from version3
 
 text from version3!
+text from main!
+
+text from version2!
