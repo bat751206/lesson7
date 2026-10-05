@@ -5,6 +5,9 @@ text from main!
 
 text from version2!
 
+lesson 8:
+conflict from version-2
+
 lesson8:
 
 hello from version1!
